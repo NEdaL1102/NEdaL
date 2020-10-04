@@ -166,4 +166,59 @@ http://2.56.215.148:25461/11/11/13
 http://2.56.215.148:25461/11/11/14
 #EXTINF:-1 tvg-id="" tvg-name="3_240" tvg-logo="" group-title="وقت المباريات فقط♤",3_240
 http://2.56.215.148:25461/11/11/15
-
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BeIN Sports S2 1 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD1.png" group-title="BeIN Sports S2",BeIN Sports S2 1 FHD
+http://dx4.gcdn.co/UKS1747/index.m3u8
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BeIN Sports S2 2 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD2.png" group-title="BeIN Sports S2",BeIN Sports S2 2 FHD
+http://dx4.gcdn.co/UKS1748/index.m3u8
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BeIN Sports S2 3 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD3.png" group-title="BeIN Sports S2",BeIN Sports S2 3 FHD
+http://dx4.gcdn.co/UKS1749/index.m3u8
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BeIN Sports S2 4 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD4.png" group-title="BeIN Sports S2",BeIN Sports S2 4 FHD
+http://dx4.gcdn.co/UKS1750/index.m3u8
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BeIN Sports S2 5 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD5.png" group-title="BeIN Sports S2",BeIN Sports S2 5 FHD
+http://dx4.gcdn.co/UKS1751/index.m3u8
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BeIN Sports S2 6 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD6.png" group-title="BeIN Sports S2",BeIN Sports S2 6 FHD
+http://dx4.gcdn.co/UKS1752/index.m3u8
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BeIN Sports S2 7 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD7.png" group-title="BeIN Sports S2",BeIN Sports S2 7 FHD
+http://dx4.gcdn.co/UKS1753/index.m3u8
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BeIN Sports S2 8 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD8.png" group-title="BeIN Sports S2",BeIN Sports S2 8 FHD
+http://dx4.gcdn.co/UKS1754/index.m3u8
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BeIN Sports S2 9 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD9.png" group-title="BeIN Sports S2",BeIN Sports S2 9 FHD
+http://dx4.gcdn.co/UKS1755/index.m3u8
+#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="BeIN Sports S2 10 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD10.png" group-title="BeIN Sports S2",BeIN Sports S2 10 FHD
+http://dx4.gcdn.co/UKS1756/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Ya Hala Cinma HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN Ya Hala Cinma HD
+http://digitalxpress.gcdn.co/live1/OSNYAHALACINEMA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN AL YAHALA ALOULA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN AL YAHALA ALOULA
+http://digitalxpress.gcdn.co/live1/OSNYAHALA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN WWE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN WWE HD
+http://dx3.gcdn.co/OSNWWE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN WWE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN WWE1 HD
+http://dx3.gcdn.co/OSNWWE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ANIMAL PLANET HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN ANIMAL PLANET HD
+http://digitalxpress.gcdn.co/live1/OSNANIMALPLANET/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART Aflam 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN ART Aflam 1
+http://digitalxpress.gcdn.co/live1/artaflam1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART Aflam 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN ART Aflam 2
+http://digitalxpress.gcdn.co/live1/artaflam2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART Cinema" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN ART Cinema
+http://digitalxpress.gcdn.co/live1/osnartcinema/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies FIRST HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN Movies FIRST HD
+http://digitalxpress.gcdn.co/live1/osnmoviesfirst/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN Movies HD
+http://digitalxpress.gcdn.co/live1/osnmovies/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 1 Premiere" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 1 Premiere
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 2 HD
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 3 HD
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 4 Family" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 4 Family
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Drama" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Drama
+http://digitalxpress.gcdn.co/live1/BeinDramaHD1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Series 1 HD
+http://digitalxpress.gcdn.co/live1/BEINSERIESHD1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Boomerang HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Boomerang HD
+http://digitalxpress.gcdn.co/live1/beinboomeranghd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Cartoon Network HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Cartoon Network HD
+http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
