@@ -1,9 +1,6 @@
-# NEdaL
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",[color red]•●★-----| NEdaL JB 📺|-----★●•[/color]
 https://images.app.goo.gl/gDvhUjSWJwPgFz6J8
-
 #EXTINF:-1 tvg-id="" tvg-name="Bein:Movies action" tvg-logo="" group-title="beIN ترفيهيه",Bein:Movies action
 http://178.63.48.23:25461/osnott/V2zmtRzt71/274
 #EXTINF:-1 tvg-id="" tvg-name="Bein:Movies drama" tvg-logo="" group-title="beIN ترفيهيه",Bein:Movies drama
